@@ -1,0 +1,9 @@
+{
+  "title": "Habitica Mac App",
+  "icon": "habitica.icns",
+  "background-color": "rgb(87, 78, 112)",
+  "contents": [
+    { "x": 448, "y": 344, "type": "link", "path": "/Applications" },
+    { "x": 344, "y": 344, "type": "file", "path": "Habitica.app" }
+  ]
+}
