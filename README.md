@@ -13,7 +13,7 @@
 
 ----
 
-<center>By Elantrian: [elizabethlagesse.com](https://www.elizabethlagesse.com) * [github.com/elantrian](https://github.com/elantrian)</center>
+By Elantrian: [elizabethlagesse.com](https://www.elizabethlagesse.com) * [github.com/elantrian](https://github.com/elantrian)
 
 
 
